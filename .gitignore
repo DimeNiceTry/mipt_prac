@@ -1,0 +1,5 @@
+.system_monitor/
+diff_report_*.txt
+system_report_*.csv
+*.matches.txt
+*.count.txt
